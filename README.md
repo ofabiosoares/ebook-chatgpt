@@ -10,3 +10,6 @@ Copilot - Designer
 Google Apresentações
 🧠 Prompts
 
+
+
+[Ebook:]()
