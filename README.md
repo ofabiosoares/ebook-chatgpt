@@ -30,5 +30,11 @@ Copilot - Designer:
 | Título   | Imagem de uma mulher jovem e elegante, olhando para o futuro e com notas de dinheiro sobre a mesa|
 
 
+✨ Features
+
+* Conteúdo gerado via ChatGPT
+* Imagens geradas via Copilot Designer
+
+
 
 
