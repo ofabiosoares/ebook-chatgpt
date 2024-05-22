@@ -23,5 +23,12 @@ ChatGPT:
 | Conteúdo |faça um texto para ebook, com foco em Orcamento pessoal e Investimentos, listando os principais topicos com exemplos praticos {REGRAS} Explique sempre de uma maneira simples; Deixe o texto enxuto; Sempre traga exemplos em contextos reais; Sempre deixe um título sugestivo por tópico |
 
 
+Copilot - Designer:
+
+| Ação     | Prompt              |
+| ---------|---------------------|
+| Título   | Imagem de uma mulher jovem e elegante, olhando para o futuro e com notas de dinheiro sobre a mesa|
+
+
 
 
