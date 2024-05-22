@@ -18,7 +18,7 @@ Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramen
 ChatGPT:
 
 | Ação     | Prompt              |
-| — — — — —| — — — — — — — — — — |
+| ---------|---------------------|
 | Título   | Célula de conteúdo  |
 | Conteúdo | Célula de conteúdo  |
 
