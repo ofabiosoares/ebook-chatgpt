@@ -6,9 +6,9 @@ Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramen
 
 ## 💻 Tecnologias utilizadas no projeto
 
-* ChatGPT
-* Copilot - Designer
-* Google Apresentações
+* [ChatGpt](https://chat.openai.com)
+* [Copilot - Designer](https://copilot.microsoft.com/)
+* [Google Apresentações](https://www.google.com/intl/pt-BR/slides/about/)
 
   
 ## 🧠 Prompts
