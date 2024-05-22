@@ -36,7 +36,7 @@ Copilot - Designer:
 * Imagens geradas via Copilot Designer
 
 
-
+---
 
 ⌨️ com 💜 por Fábio Soares
 
