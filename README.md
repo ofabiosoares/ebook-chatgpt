@@ -19,7 +19,7 @@ ChatGPT:
 
 | Ação     | Prompt              |
 | ---------|---------------------|
-| Título   | Célula de conteúdo  |
+| Título   | crie um titulo de um ebook, sobre o tema educação financeira. o ebook é do nicho de finanças pessoais e do subnicho é de orçamento e investimentos. o titulo deve ser épico e curto e tenha uma temática mais feminina no titulo. me liste 5 variações de títulos  |
 | Conteúdo | Célula de conteúdo  |
 
 
