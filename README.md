@@ -20,11 +20,7 @@ ChatGPT:
 | Ação     | Prompt              |
 | ---------|---------------------|
 | Título   | Crie um titulo de um ebook, sobre o tema educação financeira. o ebook é do nicho de finanças pessoais e do subnicho é de orçamento e investimentos. o titulo deve ser épico e curto e tenha uma temática mais feminina no titulo. Me liste 5 variações de títulos  |
-| Conteúdo |faça um texto para ebook, com foco em Orcamento pessoal e Investimentos, listando os principais topicos com exemplos praticos {REGRAS}
-> explique sempre de uma maneira simples
-> deixe o texto enxuto
-> sempre traga exemplos em contextos reais
-> sempre deixe um título sugestivo por tópico |
+| Conteúdo |faça um texto para ebook, com foco em Orcamento pessoal e Investimentos, listando os principais topicos com exemplos praticos {REGRAS} > explique sempre de uma maneira simples > deixe o texto enxuto > sempre traga exemplos em contextos reais > sempre deixe um título sugestivo por tópico |
 
 
 
