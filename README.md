@@ -35,6 +35,9 @@ Copilot - Designer:
 * Conteúdo gerado via ChatGPT
 * Imagens geradas via Copilot Designer
 
+
+
+
 ⌨️ com 💜 por Fábio Soares
 
 
